@@ -1,0 +1,15 @@
+dataset,column,outlier_count,outlier_percent,lower_bound,upper_bound
+wellness,fatigue,12,0.69,0.5,4.5
+wellness,mood,19,1.09,1.5,5.5
+wellness,readiness,89,5.09,1.0,9.0
+wellness,sleep_duration_h,7,0.4,3.0,11.0
+wellness,sleep_quality,840,48.08,3.0,3.0
+wellness,soreness,546,31.25,3.0,3.0
+wellness,stress,731,41.84,3.0,3.0
+srpe,duration_min,68,8.81,-5.0,115.0
+reporting,glasses_of_fluid,19,1.21,-0.5,19.5
+sleep_score,overall_score,26,1.42,57.0,97.0
+sleep_score,revitalization_score,19,1.03,11.0,27.0
+sleep_score,duration_score,27,1.47,24.5,52.5
+sleep_score,deep_sleep_in_minutes,13,0.71,1.0,145.0
+sleep_score,restlessness,57,3.1,-0.0097,0.1825
